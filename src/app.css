@@ -1,0 +1,7 @@
+.accordion-button {
+    background: linear-gradient(90deg, rgb(0, 63, 145) 6.62%, rgb(20, 130, 249) 52.26%, rgb(1, 64, 146) 96.48%) !important;
+    color: white !important;
+    border-radius: 10px !important;
+    border: none !important;
+    box-shadow: none !important;
+}
