@@ -128,7 +128,7 @@ const About = () => {
         <Row className="align-items-center">
           <Col lg={6} className="rounded-4">
             <img
-              src="/asset/img/vison1.jpeg"
+              src="/asset/img/logoabout.png"
               alt="Image"
               className="img-fluid"
               style={{ borderRadius: '5%' }}
